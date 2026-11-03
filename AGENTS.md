@@ -1,6 +1,6 @@
 # AGENTS.md - CONTEXT.md Standard
 
-> **path**: context-md/
+> **path**: context_md/
 > **role**: File standard specification repository
 > **context**: CONTEXT.md (Why this standard exists)
 > **version**: v1.0.0
