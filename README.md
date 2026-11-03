@@ -234,7 +234,7 @@ python3 tools/validate.py CONTEXT.md
 ### GitHub Action
 
 ```yaml
-- uses: aoitairako/context-md@v1
+- uses: aoitairako/context_md@v1
 ```
 
 No dependencies. No configuration. Just the standard.

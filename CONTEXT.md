@@ -80,7 +80,7 @@ foundation:
   path: "~/context/"
   domain: "thecontextfoundation.org"
   relationship: "The file convention born from The Context Foundation's philosophy"
-  future_home: "github.com/the-context-foundation/context-md"
+  future_home: "github.com/the-context-foundation/context_md"
   synced: "v5.0.0"
 ```
 
